@@ -16,7 +16,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/ndarray/ndarray_function-inl.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ndarray/ndarray_function.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ndarray/ndarray_function.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/ndarray/ndarray_function.cu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ndarray/ndarray.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/symbol/static_graph.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/symbol/static_graph.h" isTestSource="false" />
@@ -47,195 +46,149 @@
       <sourceFolder url="file://$MODULE_DIR$/src/storage/cpu_device_storage.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/storage/naive_storage_manager.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/optimizer/sgd-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/optimizer/sgd.cu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/optimizer/optimizer.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/optimizer/sgd.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/correlation-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/upsampling-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_activation-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cast.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/reshape.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/spatial_transformer.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_mask_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_unary_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_mask-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cast.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/spatial_transformer-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/crop.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_output.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/l2_normalization.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/roi_pooling-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_reverse-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/regression_output.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/identity_attach_KL_sparse_reg.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_output.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/matrix_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_cppwrapper.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_util-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_relu-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_convolution-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_memory-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_concat-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_cppwrapper.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_batch_norm-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_elementwise-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_fully_connected-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_pooling-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_lrn-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_memory.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/native_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/pooling.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/matrix_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/concat-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/regression_output.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_softmax_activation-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/smooth_l1_unary.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/operator_common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/rnn.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/l2_normalization.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/smooth_l1_unary.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/batch_norm.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/pooling.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_lrn-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/lrn.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/loss_binary_op.cu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/make_loss.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/crop-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/rnn.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/activation.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/slice_channel.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_unary_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/batch_norm.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/pooling-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_convolution-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/convolution-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/svm_output.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/pooling.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/leaky_relu-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/concat-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_scalar_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/leaky_relu.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/reshape-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/channel_op_common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/svm_output-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_unary_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_activation-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/embedding.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/slice_channel.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_mask-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/upsampling.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cast-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_convolution.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/slice_channel-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/l2_normalization-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/activation-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/reshape.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/ndarray_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_lrn-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/loss_binary_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sample_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/loss_binary_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/swapaxis-inl.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_activation.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/lrn.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/roi_pooling.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/activation.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/slice_channel.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/operator.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/channel_op_common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/swapaxis.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/dropout-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_deconvolution-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/block_grad.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/leaky_relu.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_scalar_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/swapaxis.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/deconvolution.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/convolution.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/embedding-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sample_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/ndarray_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/slice_channel-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_convolution-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sample_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/deconvolution.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/convolution.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_spatial_transformer-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/native_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sample_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/batch_norm-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_convolution.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op_common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_activation.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_pooling-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/leaky_relu-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/custom-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/reshape-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/fully_connected.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/operator_util.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/make_loss-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_scalar_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/native_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/svm_output-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/mshadow_op.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_op_common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/custom.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_mask_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_last.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/ndarray_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/make_loss.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_mask.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_mask.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_broadcast_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/correlation.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_last.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/correlation.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/concat.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/make_loss.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/crop.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/fully_connected-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_broadcast_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_broadcast_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_output-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/deconvolution-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_last-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/svm_output.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/regression_output-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_sum.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/roi_pooling.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/lrn-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/embedding.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/block_grad-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_reverse.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/svm_output.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/rnn-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_sum.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cast-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/smooth_l1_unary-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/block_grad.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/loss_binary_op-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/embedding.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_scalar_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/activation-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/fully_connected.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_reverse.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_batch_norm.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/identity_attach_KL_sparse_reg.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/upsampling.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_batch_norm-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/concat.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/correlation-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_cppwrapper.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_relu-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_convolution-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_elementwise-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_util-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_batch_norm-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_cppwrapper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_memory-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_lrn-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_fully_connected-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_memory.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_concat-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mkl/mkl_pooling-inl.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_mask_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/operator_util.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/custom.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_deconvolution-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_output-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/operator.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_sum-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/fully_connected.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/block_grad-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/spatial_transformer.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/lrn-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/operator_common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/mshadow_op.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/rnn.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_op_common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/deconvolution-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/embedding-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/batch_norm-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_last.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/activation.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_spatial_transformer-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_last-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/convolution.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_reverse-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/correlation.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/l2_normalization.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/regression_output-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/custom-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/batch_norm.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/matrix_op-inl.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_batch_norm.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_unary_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/l2_normalization-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/upsampling.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/dropout.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/matrix_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/loss_binary_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/cross_device_copy.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/leaky_relu.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/identity_attach_KL_sparse_reg-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/pooling-inl.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/dropout.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sample_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/native_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/smooth_l1_unary-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/matrix_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_softmax_activation-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op_common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/crop.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_activation-inl.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_rnn-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_sum-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/swapaxis-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/convolution-inl.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/reshape.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/spatial_transformer.cu" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_op.cu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_sum.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/swapaxis.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_reverse.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_broadcast_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/block_grad.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/regression_output.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/upsampling-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cross_device_copy.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_pooling-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/rnn-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_broadcast_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/smooth_l1_unary.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/roi_pooling-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/identity_attach_KL_sparse_reg.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/ndarray_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/roi_pooling.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_reduce_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_unary_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/identity_attach_KL_sparse_reg-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/elementwise_binary_scalar_op-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/dropout-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/native_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cast.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/make_loss-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/sequence_mask.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/broadcast_mask_op.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/fully_connected-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/spatial_transformer-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/deconvolution.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/cudnn_batch_norm-inl.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/softmax_output.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operator/concat.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/kvstore/kvstore.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/kvstore/kvstore_local.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/kvstore/kvstore_dist.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/kvstore/kvstore_dist_server.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/kvstore/comm.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/resource.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/io/iter_prefetcher.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/image_aug_default.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/inst_vector.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/io.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/io/iter_mnist.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/iter_prefetcher.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/image_augmenter.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/iter_image_recordio.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/iter_normalize.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/io/image_recordio.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/iter_batchloader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/image_recordio.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/io/iter_csv.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/io/iter_mnist.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dmlc-core/src/io/local_filesys.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dmlc-core/src/io/line_split.h" isTestSource="false" />

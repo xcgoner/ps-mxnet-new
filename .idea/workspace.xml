@@ -15,321 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39fbb535-1f62-4f9a-a2a6-0373c4420e9f" name="Default" comment="new repo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/2-levels.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/cmake/Modules/FindCrypto.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/cmake/Modules/FindHDFS.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/cmake/Utils.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/cmake/lint.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/Doxyfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/parameter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/doc/sphinx_util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/example/dmlc_example.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/example/parameter.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/any.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/array_view.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/base.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/concurrency.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/data.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/input_split_shuffle.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/io.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/json.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/logging.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/lua.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/memory.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/memory_io.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/omp.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/parameter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/recordio.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/registry.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/serializer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/thread_local.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/threadediter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/timer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/include/dmlc/type_traits.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/make/dmlc.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/lint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/lint3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/packages.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/setup_nvcc.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/travis/travis_before_cache.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/travis/travis_osx_install.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/travis/travis_script.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/scripts/travis/travis_setup_env.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/config.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/basic_row_iter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/csv_parser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/disk_row_iter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/libsvm_parser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/parser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/row_block.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/strtonum.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/data/text_parser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/azure_filesys.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/azure_filesys.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/cached_input_split.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/filesys.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/hdfs_filesys.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/hdfs_filesys.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/input_split_base.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/input_split_base.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/line_split.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/line_split.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/local_filesys.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/local_filesys.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/recordio_split.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/recordio_split.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/s3_filesys.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/s3_filesys.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/single_file_split.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/threaded_input_split.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/io/uri_spec.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/src/recordio.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/csv_parser_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/dataiter_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/dmlc_test.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/filesys_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/iostream_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/libsvm_parser_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/logging_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/parameter_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/recordio_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/registry_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/split_read_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/split_repeat_read_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/split_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/stream_read_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/strtonum_test.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/dmlc_unittest.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_any.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_array_view.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_config.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_json.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_logging.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_main.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_serializer.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/test/unittest/unittest_threaditer.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc-submit" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/launcher.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/local.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/mpi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/opts.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/sge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/ssh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/submit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/tracker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/dmlc_tracker/yarn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/build.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/build.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/src/main/java/org/apache/hadoop/yarn/dmlc/ApplicationMaster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/src/main/java/org/apache/hadoop/yarn/dmlc/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/tracker/yarn/src/main/java/org/apache/hadoop/yarn/dmlc/TaskRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/windows/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/windows/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/windows/dmlc.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dmlc-core/windows/dmlc/dmlc.vcxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/cmake/Cuda.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/cmake/Utils.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/cmake/mshadow.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/doc/Doxyfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/doc/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/doc/mkdoc.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/basic.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/basic_stream.cu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/defop.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/exp-template/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/exp-template/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/exp-template/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/dbstr.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/dist_async_sum-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/dist_async_sum.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/local.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/local_sum-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/local_sum.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/mshadow-ps/local_sum.cu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/neuralnet/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/neuralnet/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/neuralnet/convnet.cu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/neuralnet/nnet.cu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/neuralnet/nnet_ps.cu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/guide/neuralnet/util.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/make/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/make/mshadow.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/mshadow_ps.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/ps_dist-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/ps_local-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/ps_rabit-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/thread.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow-ps/thread_util.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/base.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/cuda/reduce.cuh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/cuda/tensor_gpu-inl.cuh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/dot_engine-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/expr_engine-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/expr_scalar-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/expression.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/broadcast.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/broadcast_with_axis.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/channel_pool.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/channel_unpool.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/choose.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/complex.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/concat.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/crop.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/fill.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/flip.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/implicit_gemm.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/mask.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/mirror.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/one_hot.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/pack_col2patch.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/pad.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/range.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/reduce_with_axis.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/reduceto1d.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/reshape.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/slice.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/slice_ex.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/spatial_pool.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/spatial_unpool.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/spatial_upsampling_nearest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/swapaxis.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/take.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/take_grad.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/transpose.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/extension/unpack_patch2col.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/half.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/io.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/logging.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/packet-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/packet/plain-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/packet/sse-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/random.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/stream_gpu-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/tensor.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/tensor_blob.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/tensor_container.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/tensor_cpu-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/mshadow/tensor_gpu-inl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mshadow/scripts/travis_script.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/cmake/External/zmq.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/cmake/Modules/FindZMQ.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/cmake/ProtoBuf.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/Doxyfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/api.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/env.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/get_started.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/how_to.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/overview.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/sphinx_util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/docs/tutorials.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/dmlc/base.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/dmlc/logging.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/base.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/assign_op.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/customer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/env.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/message.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/parallel_kv_match.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/parallel_sort.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/postoffice.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/threadsafe_queue.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/utils.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/internal/van.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/kv_app.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/ps.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/range.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/sarray.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/include/ps/simple_app.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/make/deps.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/make/ps.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/customer.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/meta.proto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/network_utils.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/postoffice.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/resender.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/van.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/windows/unistd.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/src/zmq_van.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/lint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/local.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/repeat.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/test.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/travis/travis_before_cache.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/travis/travis_script.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tests/travis/travis_setup_env.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tracker/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tracker/dmlc_local.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tracker/dmlc_mpi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tracker/dmlc_ssh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ps-lite/tracker/tracker.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appveyor.yml" afterPath="$PROJECT_DIR$/appveyor.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/autoencoder/mnist_sae.py" afterPath="$PROJECT_DIR$/example/autoencoder/mnist_sae.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/fcn-xs/image_segmentaion.py" afterPath="$PROJECT_DIR$/example/fcn-xs/image_segmentaion.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/fcn-xs/init_fcnxs.py" afterPath="$PROJECT_DIR$/example/fcn-xs/init_fcnxs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/fcn-xs/solver.py" afterPath="$PROJECT_DIR$/example/fcn-xs/solver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/fcn-xs/symbol_fcnxs.py" afterPath="$PROJECT_DIR$/example/fcn-xs/symbol_fcnxs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/correlation-inl.h" afterPath="$PROJECT_DIR$/src/operator/correlation-inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/correlation.cc" afterPath="$PROJECT_DIR$/src/operator/correlation.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/correlation.cu" afterPath="$PROJECT_DIR$/src/operator/correlation.cu" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/crop-inl.h" afterPath="$PROJECT_DIR$/src/operator/crop-inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/identity_attach_KL_sparse_reg-inl.h" afterPath="$PROJECT_DIR$/src/operator/identity_attach_KL_sparse_reg-inl.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/identity_attach_KL_sparse_reg.cc" afterPath="$PROJECT_DIR$/src/operator/identity_attach_KL_sparse_reg.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/operator/identity_attach_KL_sparse_reg.cu" afterPath="$PROJECT_DIR$/src/operator/identity_attach_KL_sparse_reg.cu" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/accnn/README.md" afterPath="$PROJECT_DIR$/tools/accnn/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/accnn/acc_conv.py" afterPath="$PROJECT_DIR$/tools/accnn/acc_conv.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/accnn/acc_fc.py" afterPath="$PROJECT_DIR$/tools/accnn/acc_fc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/accnn/accnn.py" afterPath="$PROJECT_DIR$/tools/accnn/accnn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/accnn/rank_selection.py" afterPath="$PROJECT_DIR$/tools/accnn/rank_selection.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/accnn/utils.py" afterPath="$PROJECT_DIR$/tools/accnn/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/im2rec.py" afterPath="$PROJECT_DIR$/tools/im2rec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ps-mxnet-new.iml" afterPath="$PROJECT_DIR$/.idea/ps-mxnet-new.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
     </list>
     <ignored path="ps-mxnet-new.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -348,7 +37,48 @@
     <favorites_list name="ps-mxnet-new" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cuda.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mshadow/cmake/Cuda.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mshadow.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mshadow/cmake/mshadow.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mshadow/cmake/Utils.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -357,6 +87,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dmlc-core/.gitignore" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -421,6 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RunManager" selected="Application.Build All">
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mxnet" TARGET_NAME="mxnet" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
@@ -624,6 +356,9 @@
       <updated>1477510994537</updated>
       <workItem from="1477510996085" duration="1955000" />
       <workItem from="1477512962489" duration="1030000" />
+      <workItem from="1477514283842" duration="1555000" />
+      <workItem from="1477517985629" duration="807000" />
+      <workItem from="1477518894560" duration="535000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1477512000986</created>
@@ -643,15 +378,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2985000" />
+    <option name="totallyTimeSpent" value="5882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -689,6 +424,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mshadow/cmake/Cuda.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mshadow/cmake/Cuda.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dmlc-core/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -709,6 +476,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mshadow/cmake/Cuda.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mshadow/cmake/Utils.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mshadow/cmake/mshadow.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
           <folding />
         </state>
       </provider>
